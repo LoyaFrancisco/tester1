@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+        Log.i(TAG, "New feature");
         Log.i(TAG, "scaryFunction: BOOOOOOOO!!!!!!");
     }
 
