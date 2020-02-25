@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i(TAG, "New feature");
         Log.i(TAG, "scaryFunction: BOOOOOOOO!!!!!!");
+        Log.i(TAG, "OH! added something to this feature! ");
     }
 
 }
